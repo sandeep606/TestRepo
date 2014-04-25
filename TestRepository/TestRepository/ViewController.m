@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"Just for testing psdfsdurpose");
+    NSLog(@"testing again");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
